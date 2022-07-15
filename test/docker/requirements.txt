@@ -1,0 +1,4 @@
+Flask
+google-api-core
+google-auth
+google-cloud-logging
